@@ -1,2 +1,3 @@
-# classifying-plankton
-Deep Learning coursework 2023
+# Classifying Plankton
+
+Deep Learning Coursework 2023
